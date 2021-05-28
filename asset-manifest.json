@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://utkarsh245.github.io/csb-ffsel/static/css/main.1fa4db55.chunk.css",
+    "main.js": "https://utkarsh245.github.io/csb-ffsel/static/js/main.618504ed.chunk.js",
+    "main.js.map": "https://utkarsh245.github.io/csb-ffsel/static/js/main.618504ed.chunk.js.map",
+    "runtime-main.js": "https://utkarsh245.github.io/csb-ffsel/static/js/runtime-main.6d9900a3.js",
+    "runtime-main.js.map": "https://utkarsh245.github.io/csb-ffsel/static/js/runtime-main.6d9900a3.js.map",
+    "static/css/2.ed48e7f3.chunk.css": "https://utkarsh245.github.io/csb-ffsel/static/css/2.ed48e7f3.chunk.css",
+    "static/js/2.6856328d.chunk.js": "https://utkarsh245.github.io/csb-ffsel/static/js/2.6856328d.chunk.js",
+    "static/js/2.6856328d.chunk.js.map": "https://utkarsh245.github.io/csb-ffsel/static/js/2.6856328d.chunk.js.map",
+    "index.html": "https://utkarsh245.github.io/csb-ffsel/index.html",
+    "static/css/2.ed48e7f3.chunk.css.map": "https://utkarsh245.github.io/csb-ffsel/static/css/2.ed48e7f3.chunk.css.map",
+    "static/css/main.1fa4db55.chunk.css.map": "https://utkarsh245.github.io/csb-ffsel/static/css/main.1fa4db55.chunk.css.map",
+    "static/js/2.6856328d.chunk.js.LICENSE.txt": "https://utkarsh245.github.io/csb-ffsel/static/js/2.6856328d.chunk.js.LICENSE.txt",
+    "static/media/cb.a94b8128.png": "https://utkarsh245.github.io/csb-ffsel/static/media/cb.a94b8128.png",
+    "static/media/cert.a266e951.png": "https://utkarsh245.github.io/csb-ffsel/static/media/cert.a266e951.png",
+    "static/media/cont.2fb43255.png": "https://utkarsh245.github.io/csb-ffsel/static/media/cont.2fb43255.png",
+    "static/media/coursera.06864f15.svg": "https://utkarsh245.github.io/csb-ffsel/static/media/coursera.06864f15.svg",
+    "static/media/edulogo.27fb5f0b.png": "https://utkarsh245.github.io/csb-ffsel/static/media/edulogo.27fb5f0b.png",
+    "static/media/skillimg.c458d3fa.png": "https://utkarsh245.github.io/csb-ffsel/static/media/skillimg.c458d3fa.png",
+    "static/media/techd.854c6eb7.png": "https://utkarsh245.github.io/csb-ffsel/static/media/techd.854c6eb7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d9900a3.js",
+    "static/css/2.ed48e7f3.chunk.css",
+    "static/js/2.6856328d.chunk.js",
+    "static/css/main.1fa4db55.chunk.css",
+    "static/js/main.618504ed.chunk.js"
+  ]
+}
